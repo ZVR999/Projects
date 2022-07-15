@@ -2,7 +2,7 @@
 
 Welcome to my projects repo!
 
-Included are the projects that I'm currently working on (besides the FinTech Applications that prefer to not display).
+Included are the projects that I'm currently working on (besides the FinTech Applications that prefer to not display) all of which are hosted through gitpages at https://zvr999.github.io/Projects/.
 
 Yes, oddly enough I had to make my resume a "project" lol whatever helps me to complete it right? xD
 
